@@ -1,6 +1,8 @@
 # Prayer-Bowl-Mob-App
 **About** Its the App where users can sign up or sign in and create lists of people's names. They can then shake a virtual bowl to randomly select a name from the list, accompanied by a message ("Marty is praying for you"). My role involved integrating APIs and enhancing the app's design for a better user experience.
 
+**Google Play Store Link** => https://play.google.com/store/apps/details?id=com.prayerbowll&pcampaignid=web_share
+
 ![image](https://github.com/user-attachments/assets/16654ad7-9053-4fa3-86b4-bf4b11c0517d)
 ![image](https://github.com/user-attachments/assets/3453f166-852d-4f2c-a061-8d3ad67737fd)
 ![image](https://github.com/user-attachments/assets/bea6b81b-0385-4ed7-ae65-cf46063d69cf)
